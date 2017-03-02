@@ -22,7 +22,7 @@
 Package.describe({
   name:     'ahio:mapbox',
   summary:  'Mapbox.js v2.4.0',
-  version:  '2.2.5',
+  version:  '2.2.4',
   git:      'https://github.com/ahio/meteor-mapbox.git'
 });
 
