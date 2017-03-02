@@ -21,8 +21,8 @@
 
 var FILES = {
   mapbox: {
-    js:   ['https://api.tiles.mapbox.com/mapbox.js/v3.0.1/mapbox.js'],
-    css:  ['https://api.tiles.mapbox.com/mapbox.js/v3.0.1/mapbox.css'],
+    js:   ['https://api.tiles.mapbox.com/mapbox.js/v2.4.0/mapbox.js'],
+    css:  ['https://api.tiles.mapbox.com/mapbox.js/v2.4.0/mapbox.css'],
   },
 
   mapboxgl: {
