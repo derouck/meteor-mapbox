@@ -20,10 +20,10 @@
  */
 
 Package.describe({
-  name:     'ahio:mapbox',
-  summary:  'Mapbox.js v3.0.1',
-  version:  '2.2.6',
-  git:      'https://github.com/ahio/meteor-mapbox.git'
+  name:     'crouck:mapbox',
+  summary:  'Mapbox.js v3.1.1',
+  version:  '2.2.7',
+  git:      'https://github.com/derouck/meteor-mapbox.git'
 });
 
 Package.onUse(function (api) {
