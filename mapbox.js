@@ -21,8 +21,8 @@
 
 var FILES = {
   mapbox: {
-    js:   ['https://api.tiles.mapbox.com/mapbox.js/v3.0.1/mapbox.js'],
-    css:  ['https://api.tiles.mapbox.com/mapbox.js/v3.0.1/mapbox.css'],
+    js:   ['https://api.tiles.mapbox.com/mapbox.js/v3.1.1/mapbox.js'],
+    css:  ['https://api.tiles.mapbox.com/mapbox.js/v3.1.1/mapbox.css'],
   },
 
   mapboxgl: {
@@ -111,8 +111,8 @@ var FILES = {
   },
 
   draw: {
-      js:   ['https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-draw/v0.2.3/leaflet.draw.js'],
-      css:  ['https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-draw/v0.2.3/leaflet.draw.css']
+      js:   ['https://cdn.rawgit.com/michaelguild13/Leaflet.draw/924efaac/dist/leaflet.draw.js'],
+      css:  ['https://cdn.rawgit.com/michaelguild13/Leaflet.draw/924efaac/dist/leaflet.draw.css']
   },
 
   geojsonExtend: {
