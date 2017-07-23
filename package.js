@@ -22,7 +22,7 @@
 Package.describe({
   name:     'crouck:mapbox',
   summary:  'Mapbox.js v3.1.1',
-  version:  '2.2.8',
+  version:  '2.3.0',
   git:      'https://github.com/derouck/meteor-mapbox.git'
 });
 
