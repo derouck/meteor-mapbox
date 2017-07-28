@@ -111,8 +111,8 @@ var FILES = {
   },
 
   draw: {
-      js:   ['https://cdn.rawgit.com/Leaflet/Leaflet.draw/v0.4.9/dist/leaflet.draw.js'],
-      css:  ['https://cdn.rawgit.com/Leaflet/Leaflet.draw/v0.4.9/dist/leaflet.draw.css']
+      js:   ['https://cdn.rawgit.com/Leaflet/Leaflet.draw/v0.4.10/dist/leaflet.draw.js'],
+      css:  ['https://cdn.rawgit.com/Leaflet/Leaflet.draw/v0.4.10/dist/leaflet.draw.css']
   },
 
   geojsonExtend: {
