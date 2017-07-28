@@ -1,5 +1,5 @@
-ahio:mapbox@2.2.4
+crouck:mapbox@2.3.0
 deps@1.0.12
-meteor@1.6.1
-tracker@1.1.2
+meteor@1.7.0
+tracker@1.1.3
 underscore@1.0.10
